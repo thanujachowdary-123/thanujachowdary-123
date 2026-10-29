@@ -8,3 +8,8 @@
 ## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/thanuja-salla-60b79b29b/)
+
+## My LeetCode Profile
+
+[LeetCode](https://leetcode.com/u/thanuja-salla/)
+
